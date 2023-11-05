@@ -1,0 +1,3 @@
+{
+  "exclude": [".Trash", "Library", "Pictures", "opt", ".vscode"]
+}
